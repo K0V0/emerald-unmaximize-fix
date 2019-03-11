@@ -1,6 +1,7 @@
 /* 
 apt-get install libunac1-dev
 apt-get install libwnck-common libwnck-dev
+apt-get install xdotool
 gcc $(pkg-config --cflags --libs libwnck-1.0) -lunac emerald_fix.c -o emerald_fix 
 */
 
