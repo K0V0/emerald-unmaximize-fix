@@ -22,6 +22,7 @@ Some libraries are required:
 ```
 apt-get install libunac1-dev
 apt-get install libwnck-common libwnck-dev
+apt-get install xdotool
 ```
 
 Compile if needed using (included binary is compiled on x64 machine):
